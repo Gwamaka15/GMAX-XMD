@@ -1,5 +1,5 @@
 
-const { adams } = require("../Ibrahim/adams");
+const { adams } = require("../watson/adams");
 const yts = require('yt-search');
 //const adams = 'giftedtechk';
 //const adams = 'prabath-api_5f6557';
@@ -37,7 +37,7 @@ adams({
         // Prepare the message with video details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*BMW-MD VIDEO PLAYER*`
+          caption: `*GMAX-XMD VIDEO PLAYER*`
 
         };
 
