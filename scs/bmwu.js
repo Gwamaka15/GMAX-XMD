@@ -1,6 +1,6 @@
 const axios = require("axios");
 const { Sticker, StickerTypes } = require("wa-sticker-formatter");
-const {adams} = require("../Ibrahim/adams");
+const {adams} = require("../watson/adams");
 
 adams({
   nomCom: "stickersearch",
@@ -33,7 +33,7 @@ async (dest, zk, commandeOptions) => {
 
     const stickerMess = new Sticker(gifUrl, {
       pack: packname,
-      author: 'BMW-MD',
+      author: 'GMAX-XMD',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
