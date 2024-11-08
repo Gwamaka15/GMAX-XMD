@@ -60973,10 +60973,10 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+Author             : Mr gmax
+contact            : gmaxmaxwell15@gmail.com
+Github             : https://github.com/Gmaxhacker1
+my youtube channel : Youtube.com/@gmax tv
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
