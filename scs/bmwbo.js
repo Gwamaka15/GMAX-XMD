@@ -3,8 +3,8 @@ const _0x5947f1=_0x4832;(function(_0x113309,_0x52ce94){const _0x29aecb=_0x4832,_
 **/
 const util = require('util');
 const fs = require('fs-extra');
-const { adams } = require(__dirname + "/../Ibrahim/adams");
-const { format } = require(__dirname + "/../Ibrahim/mesfonctions");
+const { adams } = require(__dirname + "/../watson/adams");
+const { format } = require(__dirname + "/../watson/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../config");
@@ -13,7 +13,7 @@ const Taphere = more.repeat(4001)
 
 adams({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../Ibrahim//adams");
+    let { cm } = require(__dirname + "/../watson//adams");
     var coms = {};
     var mode = "public";
     
@@ -40,9 +40,9 @@ let infoMsg =  `
 *Hey🖐️* *${nomAuteurMessage}*
 ╭─────═━┈┈━═──━┈⊷
 ┇ 『𝐌𝐀𝐈𝐍』
-┇ 🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ʙᴍᴡ ᴍᴅ*
+┇ 🤖 ʙᴏᴛ ɴᴀᴍᴇ: *GMAX XMD*
 ┇ 💢 ᴛʏᴘᴇ: *ᴠ6x*
-┇ 🥷 ᴅᴇᴠ: *sɪʀ ɪʙʀᴀʜɪᴍ*
+┇ 🥷 ᴅᴇᴠ: *MR GMAX*
 ╰─────═━┈┈━═──━┈⊷
 ╭─────═━┈┈━═──━┈⊷
 ┇ 『𝐒𝐘𝐒𝐓𝐄𝐌』
@@ -59,13 +59,28 @@ let infoMsg =  `
 ╭─────═━┈┈━═──━┈⊷
   『𝐒𝐔𝐏𝐏𝐎𝐑𝐓』
   ♾️ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-  https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+  https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
   ♾️ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ
-  https://t.me/ibrahimtechai
+  https://t.me/Eliyatz
   ♾️ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ
-  https://www.youtube.com/@ibrahimaitech
+  https://www.youtube.com/@Gmax Tv
   ♾️ ɪɴsᴛᴀɢʀᴀᴍ ᴘᴀɢᴇ
-  https://www.instagram.com/ibrahimadamstech
+  https://www.instagram.com/nyingi_offical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 ╰─────═━┈┈━═──━┈⊷
 > ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔\n\n`;
     
