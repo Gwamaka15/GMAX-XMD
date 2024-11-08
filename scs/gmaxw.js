@@ -1,8 +1,8 @@
 
 const util = require('util');
 const fs = require('fs-extra');
-const { adams } = require(__dirname + "/../Ibrahim/adams");
-const { format } = require(__dirname + "/../Ibrahim/mesfonctions");
+const { adams } = require(__dirname + "/../watson/adams");
+const { format } = require(__dirname + "/../watson/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../config");
@@ -11,7 +11,7 @@ const readmore = more.repeat(4001)
 
 adams({ nomCom: "scan", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../Ibrahim//adams");
+    let { cm } = require(__dirname + "/../watson//adams");
     var coms = {};
     var mode = "public";
     
@@ -53,14 +53,14 @@ const date = moment().format('DD/MM/YYYY');
  `;
     
 let menuMsg = `
-> Made by : ©Ibrahim Adams 
+> Made by : ©Mr Gmax 
 `;
 
    var lien = mybotpic();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *adams*, déveloper adams Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *gmax*, déveloper Gmax Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -70,7 +70,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *adams*, déveloper adams Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *gmax*, déveloper Gmax Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
