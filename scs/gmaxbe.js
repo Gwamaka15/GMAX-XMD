@@ -15267,7 +15267,7 @@ YMMMUP^
 
 
 
-const {adams} = require("../Ibrahim/adams");
+const {adams} = require("../watson/adams");
 const conf = require("../config")
 const {jidDecode}=require("@whiskeysockets/baileys")
 
