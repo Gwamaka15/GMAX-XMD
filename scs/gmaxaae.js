@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+GMAX XMD
 
-Made by dev Ibrahim Adams
+Made by dev Mr Gmax
 
 
                  _.u[[/;:,.         .odMMMMMM'
@@ -15269,7 +15269,7 @@ YMMMUP^
 
 const {
   adams
-} = require("../Ibrahim/adams");
+} = require("../watson/adams");
 const {
   default: axios
 } = require("axios");
