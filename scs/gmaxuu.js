@@ -1,6 +1,6 @@
 
-const { adams } = require("../Ibrahim/adams");
-const { delay, loading, react } = require("../Ibrahim/utils");
+const { adams } = require("../watson/adams");
+const { delay, loading, react } = require("../watson/utils");
 const moment = require("moment-timezone");
 const conf = require("../config.js");
 const fs = require("fs");
@@ -11,13 +11,13 @@ const {
 } = require("@whiskeysockets/baileys");
 
 // bug database
-const { bugtext1 } = require("../Ibrahim/bugs/bugtext1");
-const { bugtext2 } = require("../Ibrahim/bugs/bugtext2");
-const { bugtext3 } = require("../Ibrahim/bugs/bugtext3");
-const { bugtext4 } = require("../Ibrahim/bugs/bugtext4");
-const { bugtext5 } = require("../Ibrahim/bugs/bugtext5");
-const { bugtext6 } = require("../Ibrahim/bugs/bugtext6");
-const { bugpdf } = require("../Ibrahim/bugs/bugpdf.js");
+const { bugtext1 } = require("../watson/bugs/bugtext1");
+const { bugtext2 } = require("../watson/bugs/bugtext2");
+const { bugtext3 } = require("../watson/bugs/bugtext3");
+const { bugtext4 } = require("../watson/bugs/bugtext4");
+const { bugtext5 } = require("../watson/bugs/bugtext5");
+const { bugtext6 } = require("../watson/bugs/bugtext6");
+const { bugpdf } = require("../watson/bugs/bugpdf.js");
 
 const category = "dev";
 const reaction = "🤯";
@@ -174,7 +174,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaePv7T72WTq4R6Pxr0t",
+                                    "https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
@@ -407,7 +407,7 @@ adams(
                     scheduledCallCreationMessage: {
                         callType: "2",
                         scheduledTimestampMs: `${moment(1000)
-                            .tz("Asia/Kolkata")
+                            .tz("Africa/Nairobi")
                             .format("DD/MM/YYYY HH:mm:ss")}`,
                         title: bug
                     }
@@ -459,7 +459,7 @@ adams(
             scheduledCallCreationMessage: {
                 callType: "2",
                 scheduledTimestampMs: `${moment(1000)
-                    .tz("Asia/Kolkata")
+                    .tz("Africa/Nairobi")
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: `${bugtext1}`
             }
@@ -543,7 +543,7 @@ adams(
             scheduledCallCreationMessage: {
                 callType: "2",
                 scheduledTimestampMs: `${moment(1000)
-                    .tz("Asia/Kolkata")
+                    .tz("Africa/Nairobi")
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: bugtext2
             }
@@ -627,7 +627,7 @@ adams(
             scheduledCallCreationMessage: {
                 callType: "2",
                 scheduledTimestampMs: `${moment(1000)
-                    .tz("Asia/Kolkata")
+                    .tz("Africa/Nairobi")
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: `${bugtext1}`
             }
@@ -711,7 +711,7 @@ adams(
             scheduledCallCreationMessage: {
                 callType: "2",
                 scheduledTimestampMs: `${moment(1000)
-                    .tz("Asia/Kolkata")
+                    .tz("Africa/Nairobi")
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: bugtext3
             }
@@ -795,7 +795,7 @@ adams(
             scheduledCallCreationMessage: {
                 callType: "2",
                 scheduledTimestampMs: `${moment(1000)
-                    .tz("Asia/Kolkata")
+                    .tz("Africa/Nairobi")
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: bugtext4
             }
@@ -879,7 +879,7 @@ adams(
             scheduledCallCreationMessage: {
                 callType: "2",
                 scheduledTimestampMs: `${moment(1000)
-                    .tz("Asia/Kolkata")
+                    .tz("Africa/Nairobi")
                     .format("DD/MM/YYYY HH:mm:ss")}`,
                 title: bugtext2
             }
