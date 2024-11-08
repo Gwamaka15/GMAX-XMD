@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+GMAX XMD
 
-Made by dev Ibrahim Adams
+Made by dev Mr Gmax
 
 
                  _.u[[/;:,.         .odMMMMMM'
@@ -15267,8 +15267,8 @@ YMMMUP^
 
 
 
-const { adams } = require('../Ibrahim/adams');
-const traduire = require("../Ibrahim/traduction") ;
+const { adams } = require('../watson/adams');
+const traduire = require("../watson/traduction") ;
 const { default: axios } = require('axios');
 //const conf = require('../set');
 
@@ -15327,7 +15327,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
       const response = await axios.get(`https://photooxy.com/effect/create-image?q=${image}`);
       
       const data = response.data;
-      let caption = '*powered by BMW-MD*';
+      let caption = '*powered by GMAX-XMD*';
       
       if (data.status == 200) {
         // Utiliser les données retournées par le service
@@ -15342,7 +15342,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
     }
   });
   
-  adams({ nomCom: "bmw", reaction: "📡", categorie: "IA" }, async (dest, zk, commandeOptions) => {
+  adams({ nomCom: "gmax", reaction: "📡", categorie: "IA" }, async (dest, zk, commandeOptions) => {
     const { repondre, arg, ms } = commandeOptions;
   
     try {
