@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+GMAX xMD
 
-Made by dev Ibrahim Adams
+Made by dev Mr Gmax
 
 
                  _.u[[/;:,.         .odMMMMMM'
@@ -15267,7 +15267,7 @@ YMMMUP^
 
 
 
-const {adams}=require("../Ibrahim/adams")
+const {adams}=require("../watson/adams")
 
 
 
