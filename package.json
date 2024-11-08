@@ -106288,121 +106288,68 @@
 
 
 
-<p align="center">
-  <a href="https://files.catbox.moe/s7acjb.png">
-    <!-- Replace with your video URL for the first image -->
-    <video width="500" height="300" controls>
-      <source src="https://files.catbox.moe/q9r9eq.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </a>
-</p>
-
-<h1 align="center" style="font-size: 40px; font-family: Arial, sans-serif;">BWM XMD MADE BY IBRAHIM ADAMS</h1>
-
-<p align="center">
-  <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
-</p>
-
-  <!-- Recent Commits GIF Animation -->
-  <img src="https://files.catbox.moe/rk4gab.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
-</p>
-
-
----
-
-# 🚀 GitHub Repo Activity
-
-<p align="center">
-  <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevibraah%2FBWM-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
-
-  <!-- Docker Size -->
-  <img src="https://img.shields.io/docker/image-size/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Size" alt="Docker Size">
-
-  <!-- Docker Pulls -->
-  <img src="https://img.shields.io/docker/pulls/devibraah/bwmxmd?style=flat&logo=docker&label=Docker+Pulls" alt="Docker Pulls">
-
-  <!-- Forks -->
-  <img src="https://img.shields.io/github/forks/devibraah/BWM-XMD?label=Forks&style=social" alt="Forks Badge">
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/devibraah/BWM-XMD?style=social" alt="Stars Badge">
-
-  <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/devibraah/BWM-XMD?color=purple&label=Repo%20Size&style=plastic" alt="Repo Size">
-
-  <!-- License -->
-  <img src="https://img.shields.io/github/license/devibraah/BWM-XMD?color=purple&label=License&style=plastic" alt="License Badge">
-
-  <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=Author&message=Ibrahim%20Adams&color=purple&style=plastic" alt="Developer Badge">
-</p>
----
-
-## 🚀 Quick Start
-
-</a></p>
-- <a href="https://www.ibrahimadams.site/scanner"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-
-- <a href="https://www.ibrahimadams.site/Deploy"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/DEPLOY-h?color=red&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-</p>
-
-- <a href="https://www.ibrahimadams.site"><img title="Deploy On Render" src="https://img.shields.io/badge/BWM XMD WEB-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
-
-
-
----
-
-## 🌟 Key Features
-
-- **Multi-Platform Support**: Integrates across platforms like WhatsApp, Telegram, Slack, and more.
-- **Parallel Conversations**: Efficiently handles numerous conversations concurrently.
-- **Auto Conversation Closing**: Closes idle conversations automatically after a period.
-- **End-to-End Ride Booking**: Allows users to book rides effortlessly using the bot.
-
----
-
-## 💻 GitHub Repo Activity
-
-<p align="center">
-  <!-- GitHub Repo Activity Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devibraah&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
-
-  <!-- Repo Activity Stats Screen -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devibraah&repo=BWM-XMD" alt="Pinned GitHub Repo Activity" width="800">
-
-  
-
----
-
-## 📸 Gallery
-
-<p align="center">
-  <img src="https://files.catbox.moe/b1ya2a.webp" alt="BMW XMD Bot" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/s7acjb.png" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/8pb4ok.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
-</p>
-
----
-
-## 🏠 Overview
-
-**BMW XMD** is a powerful bot solution created by **Ibrahim Adams**. It's designed to be multi-platform, scalable, and efficient for handling user interactions on popular messaging platforms like WhatsApp and Telegram. The bot features multi-language support, ride-booking capabilities, and real-time status tracking for enhanced user engagement.
-
----
-
-## 📑 Contribution
-
-We welcome contributions to **BMW XMD**. If you encounter any bugs or have new ideas for features, feel free to open an issue or submit a pull request. Please follow the code of conduct and provide detailed explanations with your pull requests.
-
----
-
-## 📅 Footer
-
-<p align="center">
-  <small>&copy; 2024 CODE BY IBRAHIM ADAMS /// BMW XMD</small>
-</p>
-
+{
+  "name": "GMAX-MD",
+  "version": "10.8.1",
+  "description": "GMAX-XMD latest multi device whatsapp bot",
+  "main": "body.js",
+  "type": "module",
+  "scripts": {
+    "start": "pm2 start body.js --deep-monitoring --attach --name GMAX-XMD",
+    "stop": "pm2 stop GMAX XMD",
+    "restart": "pm2 restart GMAX-XMD"
+  },
+  "keywords": ["GMAX-XMD", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Mr GMAX",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@google/generative-ai": "^0.9.0",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "@xaviabot/fb-downloader": "^1.0.14",
+    "acrcloud": "^1.4.0",
+    "api-dylux": "^1.8.3",
+    "aptoide-scraper": "^1.0.1",
+    "awesome-phonenumber": "^6.8.0",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ffmpeg": "^0.0.4",
+    "file-type": "^19.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs": "^0.0.1-security",
+    "google-it": "^1.6.4",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.13",
+    "jpeg-js": "^0.4.4",
+    "jsqr": "^1.4.0",
+    "libphonenumber": "^0.0.10",
+    "moment-timezone": "^0.5.45",
+    "nayan-media-downloader": "^2.4.7",
+    "node-cache": "^5.1.2",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "node-os-utils": "^1.3.7",
+    "node-webpmux": "^3.2.0",
+    "os": "^0.1.2",
+    "pdfkit": "^0.15.0",
+    "pm2": "^5.4.0",
+    "pino": "^8.20.0",
+    "proto": "^1.0.19",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "remove.bg": "^1.3.0",
+    "tesseract.js": "^5.1.0",
+    "translate-google-api": "^1.0.4",
+    "url": "^0.11.4",
+    "uuid": "^9.0.1",
+    "wasitech": "npm:@distube/ytdl-core",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.2"
+  }
+}
