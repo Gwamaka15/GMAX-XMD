@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://files.fm/u/6bc734t2y6.png">
     <!-- Replace with your video URL for the first image -->
-    <video width="500" height="300" controls>
-      <video autoplay muted loop>
-            <source src="https://nie.v.netease.com/nie/2021/0311/180bb6ea37a856240100f1adbcb86cf2qt.mp4">
-        </video>
   </a>
 </p>
 
@@ -13,7 +9,10 @@
 <p align="center">
   <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
 </p>
-
+<video width="500" height="300" controls>
+      <video autoplay muted loop>
+            <source src="https://nie.v.netease.com/nie/2021/0311/180bb6ea37a856240100f1adbcb86cf2qt.mp4">
+        </video>
 ---
 
 # 🚀 GitHub Repo Activity
