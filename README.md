@@ -13,10 +13,6 @@
 
 <p align="center">
   <marquee style="font-size: 24px; font-family: Arial, sans-serif;">The Ultimate Multi-Platform Bot Experience!</marquee>
-<video width="500" height="300" controls>
-      <video autoplay muted loop>
-            <source src="https://nie.v.netease.com/nie/2021/0311/180bb6ea37a856240100f1adbcb86cf2qt.mp4">
-        </video>
 </p>
 ---
 
