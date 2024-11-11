@@ -106289,7 +106289,7 @@
 
 
 {
-  "name": "GMAX-MD",
+  "name": "GMAX-XMD",
   "version": "10.8.1",
   "description": "GMAX-XMD latest multi device whatsapp bot",
   "main": "body.js",
