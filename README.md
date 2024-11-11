@@ -106292,9 +106292,9 @@
   <a href="https://files.fm/u/6bc734t2y6.png">
     <!-- Replace with your video URL for the first image -->
     <video width="500" height="300" controls>
-      <source src="https://files.fm/u/xppxbsh4g3" type=video"/mp4">
-      Your browser does not support the video tag.
-    </video>
+      <video autoplay muted loop>
+            <source src="https://nie.v.netease.com/nie/2021/0311/180bb6ea37a856240100f1adbcb86cf2qt.mp4">
+        </video>
   </a>
 </p>
 
