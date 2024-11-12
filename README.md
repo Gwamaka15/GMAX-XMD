@@ -122,24 +122,14 @@
 <a href='https://replit.com/@devibraahadams/Baraka-pairing-code1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-#### DEPLOY TO PANEL 
-
-1. If You don't have a account on panel Create a account.
-    <br>
-<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-
-2. Now Deploy
-    <br>
-<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
+  <br>
+  
 <p align="center">
-<a href="https://wa.me/255762190568"><img src="https://img.shields.io/badge/whatsapp-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://wa.me/255762190568" /><br>
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
+<a href=" https://wa.me/message/MA4OMKT7KOQYA1"><img src="https://img.shields.io/badge/whatsapp-ff0000?style=for-the-badge&logo=whatsapp&logoColor=ff000000&link=https://wa.me/255622053093" /><br>
+<a href=" https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link="https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"/><br>
 <a href="https://t.me/Barakabega"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/DWMdXPkkieGJNj3Nwhx9xp"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/nyingi_offical?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 <p align="center">
