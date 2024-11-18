@@ -3,5 +3,5 @@ const gmaxmd3 = "hey beb";
 
 // Xmd1
 module.exports = {
-    gmaxxmd3
+    gmaxmd3
 };
