@@ -108,7 +108,7 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
+    "description":"Enter here the number that is hosting the bot Eg, 255xxxxxxx",   
       "value":"",
     "required":true
       
@@ -121,7 +121,7 @@
     "value": "𝕸𝖗 𝕲𝖒𝖆𝖝"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"put your session ID , the code you received from from Gmax Tech site",   
       "value":"",
      "required":true
   },
